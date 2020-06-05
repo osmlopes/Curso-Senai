@@ -45,9 +45,13 @@ span{margin: auto;}
 .photoshop{width: 80%;}
 .illustrator{width: 70%;}
 .indesign{width: 60%;}
-.css3{width: 55%;}
+.css3{width: 65%;}
 .html5{width: 75%;}
 .javascript{width: 45%;}
+.xd{width: 50%;}
+.git{width: 35%;}
+
+
 .load{
     animation: loading 1s linear;
 }
